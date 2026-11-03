@@ -1,12 +1,24 @@
 
 import spacy
 
+# Cargar modelo de lenguaje español
 nlp = spacy.load("es_core_news_sm")
+
+# Negaciones que debemos conservar
+NEGACIONES = {
+    "no",
+    "nunca",
+    "jamás",
+    "jamas",
+    "tampoco",
+    "ni"
+}
+
 
 def procesar_texto(mensaje):
 
-    # procesamiento de lenjage natural 
-    doc = nlp(mensaje.lower())
+    # Procesamiento de lenguaje natural
+    doc = nlp(str(mensaje).lower().strip())
 
     tokens = []
 
@@ -17,19 +29,32 @@ def procesar_texto(mensaje):
             continue
 
         # Eliminar stopwords, conservando negaciones
-        if token.is_stop and token.text not in ["no", "nunca", "jamás"]:
+        if token.is_stop and token.text not in NEGACIONES:
             continue
 
-        # Obtener lema de la palabra
-        tokens.append(token.lemma_)
+        # Obtener el lema de la palabra
+        lema = token.lemma_.strip().lower()
+
+        if lema:
+            tokens.append(lema)
 
     return tokens
 
 
-# Prueba
-mensaje = "Estoy muy enojado porque me insultaron"
+# Pruebas
+if __name__ == "__main__":
 
-resultado = procesar_texto(mensaje)
+    mensajes = [
+        "Estoy muy enojado porque me insultaron",
+        "No estoy feliz, hoy me siento triste",
+        "Nunca vuelvas a amenazarme",
+        "Tampoco me gusta que me hablen así",
+        "Estoy muy contento porque aprobé mi examen"
+    ]
 
-print("Mensaje original:", mensaje)
-print("Tokens procesados:", resultado)
+    for mensaje in mensajes:
+
+        resultado = procesar_texto(mensaje)
+
+        print("\nMensaje original:", mensaje)
+        print("Tokens procesados:", resultado)

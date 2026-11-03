@@ -1,29 +1,504 @@
+﻿mensaje,emocion
 
-mensaje,emocion
 
 
-"Estoy muy feliz hoy",felicidad
-"Me encanta pasar tiempo contigo",felicidad
-"Hoy fue un día maravilloso",felicidad
-"Estoy muy emocionado por mi futuro",felicidad
-"Me siento muy alegre",felicidad
-"Estoy triste y quiero llorar",tristeza
-"Me siento completamente solo",tristeza
-"Hoy extraño mucho a mi familia",tristeza
-"Nadie comprende como me siento",tristeza
-"Estoy desanimado por lo sucedido",tristeza
-"Estoy muy enojado contigo",enojo
-"Esto me molesta demasiado",enojo
-"No soporto esta situación",enojo
-"Estoy harto de tus mentiras",enojo
-"Me haces perder la paciencia",enojo
-"Te voy a golpear",agresividad
-"Quiero hacerte daño",agresividad
-"Voy a destruir tus cosas",agresividad
-"Te voy a atacar",agresividad
-"Quiero lastimarte",agresividad
-"Eres un completo idiota",ofensivo
-"Que persona tan estúpida",ofensivo
-"No sirves para nada",ofensivo
-"Eres un inútil",ofensivo
-"Tu comentario fue muy ofensivo",ofensivo
+Quiero herirte para que sufras,agresividad
+Me puso muy feliz tu visita,felicidad
+Voy a lanzarte contra la puerta,agresividad
+Me agüita no poder cumplir esa meta,tristeza
+Siento que nadie entiende lo que estoy pasando,tristeza
+Quiero atacarte y romper tus cosas,agresividad
+Voy a destrozar tu bicicleta para dañarte,agresividad
+Siento que estoy perdiendo algo importante,tristeza
+Qué emoción poder cumplir este sueño,felicidad
+Qué necedad la tuya,ofensivo
+Me encanta pasar tiempo con mi familia,felicidad
+Hoy necesito un momento para mí,tristeza
+Qué tonto eres,ofensivo
+Me encanta cuando estamos todos reunidos,felicidad
+Voy a romper tus muebles para desquitarme,agresividad
+Quiero dejarte una lesión,agresividad
+No sabes escuchar ni aprender,ofensivo
+Hoy todo me salió bastante bien,felicidad
+Voy a destrozar todo lo que tengas,agresividad
+Eres una persona desagradable,ofensivo
+Qué persona tan grosera,ofensivo
+Eres un creído y maleducado,ofensivo
+Me irrita que hagan comentarios fuera de lugar,enojo
+Voy a destrozar tu teléfono para lastimarte,agresividad
+Hoy me siento más optimista que nunca,felicidad
+Eres un creído,ofensivo
+Eres una persona muy grosera,ofensivo
+Estoy fastidiado con tantas excusas,enojo
+Tengo ganas de llorar y no sé por qué,tristeza
+Te voy a tirar al piso,agresividad
+Tu comportamiento es vergonzoso,ofensivo
+Voy a ir por ti para atacarte,agresividad
+Eres un desconsiderado,ofensivo
+Tengo un vacío que no sé cómo llenar,tristeza
+"No puedo dejar de sonreír, todo salió increíble",felicidad
+Voy a destruir lo que más quieres,agresividad
+No tienes ni tantita inteligencia,ofensivo
+Me da gusto que hayamos llegado a un acuerdo,felicidad
+"La verdad, esto sí me hizo enojar",enojo
+Qué alegría que todo esté mejor,felicidad
+Te voy a patear hasta que te alejes,agresividad
+Me encanta ver sonreír a las personas que quiero,felicidad
+Eres un necio de primera,ofensivo
+Hoy me ganó la nostalgia,tristeza
+Estoy celebrando porque lo conseguimos,felicidad
+Qué padre es compartir los logros,felicidad
+Estoy muy feliz hoy,felicidad
+Me hizo el día que me tomaras en cuenta,felicidad
+No sabes hacer absolutamente nada,ofensivo
+Me da gusto saber que estás bien,felicidad
+"Qué chulada de día, todo salió perfecto",felicidad
+Me da pena reconocer que estoy triste,tristeza
+Traigo el ánimo por los suelos,tristeza
+Qué ridículo te ves,ofensivo
+Me pesa mucho haberme equivocado,tristeza
+Me siento emocionado y con muchas ganas,felicidad
+Me duele que las cosas hayan terminado así,tristeza
+Qué padre que podamos estar juntos,felicidad
+Esta situación ya me tiene cansado,enojo
+Estoy muy ilusionado con el futuro,felicidad
+Eres un fastidioso,ofensivo
+Qué coraje que se haya cancelado todo,enojo
+Te voy a perseguir para golpearte,agresividad
+Qué comentario tan desagradable,ofensivo
+Me siento agradecido por tantas cosas buenas,felicidad
+Me puso de buenas escuchar eso,felicidad
+Eres un pesado y un grosero,ofensivo
+Me encanta ver que nuestro esfuerzo dio frutos,felicidad
+Me enfada que no tomen en cuenta mi opinión,enojo
+Quiero hacerte daño con mis propias manos,agresividad
+Quiero hacerte daño de verdad,agresividad
+Voy a aventarte al suelo si te acercas,agresividad
+Estoy molesto porque no me avisaste,enojo
+Qué molesto que no tomen responsabilidad,enojo
+Quiero atacarte y hacerte sufrir,agresividad
+Quiero lastimarte físicamente,agresividad
+Me da coraje que se pierdan mis cosas,enojo
+Estoy disfrutando mucho esta etapa,felicidad
+Tu actitud es una porquería,ofensivo
+No tienes sentido común,ofensivo
+Me siento decepcionado y triste,tristeza
+Qué gusto tener un motivo para celebrar,felicidad
+Qué manera tan absurda de responder,ofensivo
+Me entristece haber perdido esa oportunidad,tristeza
+Quiero darte un golpe para que aprendas,agresividad
+Qué buena vibra se siente hoy,felicidad
+Extraño mucho las pláticas de antes,tristeza
+Qué comentario tan corriente,ofensivo
+Te voy a patear si no te quitas,agresividad
+Me saca de quicio que no cooperen,enojo
+Te voy a empujar para que te caigas,agresividad
+Eres un verdadero fastidio,ofensivo
+Voy a romper la puerta y entrar a golpearte,agresividad
+Voy a quemar tus pertenencias,agresividad
+Qué poca capacidad tienes,ofensivo
+Voy a romper todo lo que sea tuyo,agresividad
+Me siento muy satisfecho con el avance,felicidad
+Me alegra ver que estás alcanzando tus metas,felicidad
+Qué comentario tan estúpido,ofensivo
+No sabes la felicidad que me da esto,felicidad
+Estoy harto de que no haya soluciones,enojo
+No dices más que tonterías,ofensivo
+Hoy tengo una sonrisa que no se me quita,felicidad
+Voy a romperte los dientes,agresividad
+Quiero golpearte hasta desquitarme,agresividad
+Hoy sí que tengo razones para estar de buenas,felicidad
+Quiero hacerte daño,agresividad
+Me saca de quicio que no respeten los acuerdos,enojo
+Te voy a lanzar un puñetazo,agresividad
+Me dieron ganas de llorar al recordar eso,tristeza
+Me duele que no hayas podido venir,tristeza
+Tus ideas son absurdas,ofensivo
+Quiero hacerte sangrar,agresividad
+Me siento con mucha energía y entusiasmo,felicidad
+Eres un mal compañero,ofensivo
+Estoy harto de que me ignoren,enojo
+Me tiene muy fastidiado este retraso,enojo
+Estoy perdiendo la paciencia con este problema,enojo
+A veces quisiera volver a empezar,tristeza
+Hoy tengo motivos de sobra para sonreír,felicidad
+Me irrita que interrumpan cuando hablo,enojo
+Hoy nada parece salir como esperaba,tristeza
+Te voy a lastimar si sigues molestándome,agresividad
+Hoy tengo el corazón muy pesado,tristeza
+Me enoja que siempre me dejen todo al último,enojo
+Me molesta que hagan ruido cuando estudio,enojo
+Qué persona tan necia,ofensivo
+Estoy harto de repetir lo mismo,enojo
+Me duele mucho esta despedida,tristeza
+Quiero romper tus cosas frente a ti,agresividad
+Me siento afortunado de tenerte cerca,felicidad
+Siento un nudo en la garganta,tristeza
+Qué actitud tan absurda,ofensivo
+Qué frustración no poder resolverlo,enojo
+La noticia me dejó muy desanimado,tristeza
+Me encantó pasar la tarde contigo,felicidad
+Me siento triste por estar lejos de casa,tristeza
+Por fin pude cumplir una de mis metas,felicidad
+Estoy feliz de poder compartir este momento,felicidad
+Me enfada que no escuchen las indicaciones,enojo
+Hoy fue un día excelente de principio a fin,felicidad
+Me desespera que no pongan atención,enojo
+Eres una persona arrogante que no soporta a los demás,ofensivo
+Qué orgullo me da nuestro equipo,felicidad
+Estoy de malas porque no dormí bien,enojo
+Me molesta que me cambien el trabajo al final,enojo
+"Qué buena noticia, me alegraste la tarde",felicidad
+Me desespera tener que esperar tanto,enojo
+Estoy muy molesto con el resultado,enojo
+No tienes respeto por nadie,ofensivo
+Estoy emocionado por lo que viene,felicidad
+Me siento apagado desde hace varios días,tristeza
+Estoy feliz de haber aprendido algo nuevo,felicidad
+Me salió todo mejor de lo que esperaba,felicidad
+Tu manera de actuar es patética,ofensivo
+Te voy a dar un puñetazo,agresividad
+Me da muchísimo gusto verte bien,felicidad
+No es posible que sigan haciendo lo mismo,enojo
+Eres un mediocre y no entiendes nada,ofensivo
+Estoy feliz de que nuestra amistad siga creciendo,felicidad
+Me cuesta aceptar que todo cambió,tristeza
+Te voy a empujar por las escaleras,agresividad
+Eres un presumido de primera,ofensivo
+Qué bonito es sentir que voy avanzando,felicidad
+Eres un pesado,ofensivo
+No sabes comportarte,ofensivo
+La pasé increíble con mis amigos,felicidad
+Qué alegría me dio recibir esa noticia,felicidad
+Qué ridículo comentario hiciste,ofensivo
+Hoy no tengo ánimos de hacer nada,tristeza
+Me siento pleno con lo que estoy viviendo,felicidad
+Siento que últimamente todo me sale mal,tristeza
+No tienes ni idea de lo que haces,ofensivo
+Me pone triste que no podamos vernos,tristeza
+Me duele que ya no hablemos como antes,tristeza
+Me siento muy vulnerable en este momento,tristeza
+Quiero hacerte una herida,agresividad
+Me siento bajoneado por mis resultados,tristeza
+Me da tristeza ver cómo nos alejamos,tristeza
+Te voy a romper la boca a golpes,agresividad
+Te voy a dar una paliza si regresas,agresividad
+Me siento sin ilusión por ahora,tristeza
+Tu comentario fue muy ofensivo,ofensivo
+Me tiene cansado esta falta de compromiso,enojo
+Eres un inútil para trabajar en equipo,ofensivo
+Me entristece que nos hayamos distanciado,tristeza
+Voy a patearte si no haces lo que digo,agresividad
+Me siento orgulloso de no haberme rendido,felicidad
+Me choca que lleguen tarde sin avisar,enojo
+Siento mucha nostalgia por mi infancia,tristeza
+Qué actitud tan patética,ofensivo
+Te voy a dar varios golpes,agresividad
+Eres un completo idiota,ofensivo
+Me molesta que no valoren mi tiempo,enojo
+Me siento vacío desde que te fuiste,tristeza
+Me da coraje que no reconozcan lo que hice,enojo
+No sé cómo explicar esta sensación de vacío,tristeza
+Estoy muy feliz de que estés aquí,felicidad
+Me hace falta platicar contigo,tristeza
+Quiero lastimarte con un golpe,agresividad
+Eres un presumido sin motivo,ofensivo
+Me siento genial después de terminar mi trabajo,felicidad
+Me enoja que me interrumpan a cada rato,enojo
+Hoy amanecí con el ánimo muy bajo,tristeza
+Qué difícil es extrañar a alguien,tristeza
+Me siento muy afectado por la situación,tristeza
+Ya estuvo bueno de tantas vueltas,enojo
+Estoy encantado con este nuevo comienzo,felicidad
+No tienes respeto ni educación,ofensivo
+Quiero golpearte frente a todos,agresividad
+Me molesta que cambien las reglas sin avisar,enojo
+Hoy fue un día bastante pesado para mí,tristeza
+Quiero partirte la cara,agresividad
+Me siento muy enojado y frustrado,enojo
+Me enoja que no me den una respuesta clara,enojo
+Te voy a patear en cuanto te acerques,agresividad
+Voy a golpearte si vuelves a amenazarme,agresividad
+Estoy harto de tantas mentiras,enojo
+Voy a aventarte una silla,agresividad
+Estoy muy alterado por esta noticia,enojo
+Quiero lastimarte y no me importa nada,agresividad
+Me da rabia que me responsabilicen de todo,enojo
+Estoy de excelente humor esta mañana,felicidad
+Me agüita que no haya salido como quería,tristeza
+Me siento sin fuerzas para continuar hoy,tristeza
+Quiero destruir tus cosas y hacerte daño,agresividad
+Me frustra que no podamos llegar a un acuerdo,enojo
+No tienes idea de lo que hablas,ofensivo
+Me da mucho coraje que no sea justo,enojo
+Qué bonito que te acordaras de mí,felicidad
+"La verdad, extraño mucho esos días",tristeza
+Me da mucha emoción lo que estamos construyendo,felicidad
+Tu forma de hablar es desagradable,ofensivo
+Me siento orgulloso de lo que conseguí,felicidad
+Te voy a atacar con un cuchillo,agresividad
+Te voy a empujar y tirar al suelo,agresividad
+Voy a romper tus ventanas para dañarte,agresividad
+Me quedé muy bajoneado después de eso,tristeza
+Me siento nostálgico al ver esas fotografías,tristeza
+Me da tristeza no poder estar con ustedes,tristeza
+Te voy a golpear para vengarme,agresividad
+Me afecta mucho sentirme ignorado,tristeza
+Tu comentario fue una estupidez,ofensivo
+Estoy contentísimo con el resultado,felicidad
+Voy a golpearte si no te alejas,agresividad
+Extraño demasiado a mi familia,tristeza
+Estoy feliz porque pude ayudar,felicidad
+Qué felicidad saber que lo logramos,felicidad
+Voy a lanzarte algo para herirte,agresividad
+Me cuesta trabajo dejar ir esos recuerdos,tristeza
+Eres un grosero de primera,ofensivo
+Me da coraje que no se cumpla lo prometido,enojo
+Eres un tonto,ofensivo
+Me cuesta encontrar tranquilidad después de esto,tristeza
+Me irrita que hagan como si nada hubiera pasado,enojo
+Eres un fastidio para todos,ofensivo
+Me cuesta mucho levantar el ánimo,tristeza
+Voy a destrozar tu puerta y tus muebles,agresividad
+Me siento mal por lo que ocurrió,tristeza
+Qué persona tan desagradable eres,ofensivo
+Ya no tengo paciencia para esta discusión,enojo
+Me entristece pensar que ya no volverá a ser igual,tristeza
+Voy a ir a tu casa para golpearte,agresividad
+Me siento agradecido y de buenas,felicidad
+Me siento muy sensible últimamente,tristeza
+Ya me cansé de que todo sea tan complicado,enojo
+Eres un grosero,ofensivo
+Estoy emocionado por conocer algo nuevo,felicidad
+Das pena con tus comentarios,ofensivo
+No puedo evitar sentir nostalgia,tristeza
+No encuentro palabras para explicar mi tristeza,tristeza
+Me molesta muchísimo que no me escuches,enojo
+No me parece justo lo que están haciendo,enojo
+Voy a darte una paliza,agresividad
+Esta situación me está sacando de quicio,enojo
+Te voy a golpear si vuelves a hablarme así,agresividad
+Voy a romper tus cosas para que sufras,agresividad
+Voy a lastimarte si vuelves a acercarte,agresividad
+Me molesta que no me dejen terminar,enojo
+Me quedé con muchas cosas por decir,tristeza
+Voy a romper tus cosas para lastimarte,agresividad
+Qué poca paciencia me queda con este asunto,enojo
+Tu opinión es una tontería,ofensivo
+Me tiene hasta el tope esta situación,enojo
+No encuentro motivos para celebrar hoy,tristeza
+Qué bruto eres para entender,ofensivo
+Me enoja que me digan una cosa y hagan otra,enojo
+Qué manera tan tonta de pensar,ofensivo
+Quiero golpearte para que no lo olvides,agresividad
+Estoy de malas por este contratiempo,enojo
+Quiero romperte un brazo,agresividad
+Me molesta que no consideren mi opinión,enojo
+Te voy a tirar al suelo de un golpe,agresividad
+Te voy a dar una patada,agresividad
+Me desanimó bastante lo que pasó,tristeza
+Me duele que nuestra amistad haya cambiado,tristeza
+Pienso golpearte hasta que te calles,agresividad
+Eres un payaso,ofensivo
+Qué manera tan tonta de expresarte,ofensivo
+Tu respuesta fue bastante mediocre,ofensivo
+Eres una vergüenza,ofensivo
+Me molesta que hablen sin saber,enojo
+Voy a ir a buscarte para golpearte,agresividad
+Me siento frustrado y con ganas de llorar,tristeza
+Me siento triste por haber fallado,tristeza
+Tengo mucha tristeza acumulada,tristeza
+Me da rabia que no cumplan con su parte,enojo
+Qué fastidio tener que explicar otra vez,enojo
+No tengo ganas de salir ni de convivir,tristeza
+Me siento decepcionado de cómo salieron las cosas,tristeza
+Quiero agredirte físicamente,agresividad
+Me enoja que no tomen en serio mi trabajo,enojo
+Qué persona tan estúpida,ofensivo
+Quiero golpearte y destruir tus pertenencias,agresividad
+Qué difícil es acostumbrarse a tu ausencia,tristeza
+Estoy frustrado con este resultado,enojo
+Eres un presumido insoportable,ofensivo
+Qué feo se siente estar solo,tristeza
+Quiero atacarte físicamente,agresividad
+Quiero aventarte al suelo,agresividad
+Me siento desmotivado con todo,tristeza
+No tienes educación,ofensivo
+Me siento motivado para seguir adelante,felicidad
+Qué mal caes con esa actitud,ofensivo
+Me hace feliz saber que cuento contigo,felicidad
+Me desespera que todo se haga al aventón,enojo
+Hoy desperté con muchísimas ganas de hacer cosas,felicidad
+Qué enojo que se haya perdido tanto tiempo,enojo
+Me siento solo en esta etapa,tristeza
+Voy a destruir tus pertenencias por coraje,agresividad
+Me entristece no haber podido ayudarte,tristeza
+Qué chido que por fin se nos hizo,felicidad
+Me encanta cuando compartimos buenas noticias,felicidad
+Estoy feliz por esta nueva oportunidad,felicidad
+No me siento bien emocionalmente hoy,tristeza
+Hoy quisiera quedarme en casa y descansar,tristeza
+Voy a buscarte para hacerte daño,agresividad
+Quiero destrozar tus pertenencias,agresividad
+Estoy molesto porque no avisaron,enojo
+Hoy sí valió la pena todo el esfuerzo,felicidad
+No podría estar más contento con la noticia,felicidad
+Me pone de malas que no contesten lo acordado,enojo
+No sabes tratar a los demás,ofensivo
+Te voy a atacar cuando estés solo,agresividad
+Me siento cansado de fingir que todo está bien,tristeza
+Me alegra muchísimo que hayas venido,felicidad
+Tu comportamiento deja mucho que desear,ofensivo
+Me parece que eres un patán,ofensivo
+No soporto que cambien los planes a última hora,enojo
+Me enoja que no revisen bien las cosas,enojo
+Me irrita que siempre haya pretextos,enojo
+Tu actitud es bastante desagradable,ofensivo
+Hoy sí fue un día de esos que se disfrutan,felicidad
+Estoy cansado de discutir por lo mismo,enojo
+Eres un incompetente total,ofensivo
+Hoy me siento muy triste,tristeza
+Me da coraje que ignoren mis mensajes,enojo
+Tu comportamiento da vergüenza,ofensivo
+Qué frustrante que no podamos avanzar,enojo
+Me siento desilusionado por lo que pasó,tristeza
+Me hizo muy feliz que me felicitaras,felicidad
+Me choca tener que solucionar errores ajenos,enojo
+Me enfurece que no cumplan su palabra,enojo
+Me siento muy animado para comenzar,felicidad
+Qué padre estuvo la reunión de hoy,felicidad
+Me dio un montón de gusto verte,felicidad
+Me desespera tanta desorganización,enojo
+Voy a destrozar tu habitación,agresividad
+Estoy muy enojado por lo que hiciste,enojo
+No aportas absolutamente nada,ofensivo
+Me encanta cómo están saliendo las cosas,felicidad
+Qué persona tan insoportable,ofensivo
+Estoy frustrado porque no me sale el ejercicio,enojo
+Me frustra que no funcione como debería,enojo
+Me fastidia que no respeten los horarios,enojo
+Me duele recordar nuestra última conversación,tristeza
+Eres un maleducado,ofensivo
+Extraño cuando todo era más sencillo,tristeza
+La noticia me cayó de maravilla,felicidad
+No dejo de pensar en lo que perdí,tristeza
+Me siento solo aunque esté acompañado,tristeza
+Eres un maleducado y arrogante,ofensivo
+"La verdad, hoy me siento de maravilla",felicidad
+Te voy a herir con lo que encuentre,agresividad
+Qué comentario tan miserable,ofensivo
+Estoy contento con la decisión que tomé,felicidad
+Te voy a golpear si te vuelves a acercar,agresividad
+Me siento muy agradecido por lo que tengo,felicidad
+Me da mucha pena que ya no seamos cercanos,tristeza
+Estoy muy contento con mi desempeño,felicidad
+Quiero romperte la cara,agresividad
+Tu explicación fue pésima,ofensivo
+Eres un inútil,ofensivo
+Estoy de malas por todo lo que pasó,enojo
+Qué coraje que no haya salido el plan,enojo
+Qué persona tan molesta,ofensivo
+Eres un necio,ofensivo
+Te voy a golpear en la cara,agresividad
+Me choca que no acepten sus errores,enojo
+Estoy irritado porque nada funciona,enojo
+Me molesta que no valoren mi esfuerzo,enojo
+Estoy cansado de tanta falta de organización,enojo
+Qué tontería acabas de decir,ofensivo
+Qué desesperante es esta situación,enojo
+Eres un completo incompetente,ofensivo
+Tu actitud es insoportable,ofensivo
+Te voy a atacar cuando salgas,agresividad
+Voy a buscarte para romperte la cara,agresividad
+Estoy irritado por el ruido de todo el día,enojo
+Qué coraje que siempre pase lo mismo,enojo
+Me siento desconectado de todos,tristeza
+Qué gusto que todo haya salido bien,felicidad
+Me da rabia que me culpen sin razón,enojo
+No sirves para nada,ofensivo
+Qué complicado es superar una pérdida,tristeza
+Te espero afuera para arreglar esto a golpes,agresividad
+No puedo creer que hayan hecho eso otra vez,enojo
+Últimamente nada me emociona,tristeza
+Qué buena onda que me hayas apoyado,felicidad
+Voy a lanzarte un objeto para golpearte,agresividad
+Qué bonito se siente lograr algo que me costó tanto,felicidad
+Qué insoportable puede ser tu actitud,ofensivo
+Eres un patán con todos,ofensivo
+Me dio mucha emoción recibir tu mensaje,felicidad
+Eres un incompetente,ofensivo
+Me dio mucha felicidad escuchar tu voz,felicidad
+Me da mucho coraje que no respeten mi tiempo,enojo
+"Qué emoción, ya quiero que llegue ese día",felicidad
+Me choca que no respeten mi espacio,enojo
+Qué comentario tan tonto,ofensivo
+Te voy a aventar por las escaleras,agresividad
+Me siento tranquilo y contento con mi vida,felicidad
+Quiero lastimarte con mis propias manos,agresividad
+Qué comentario tan fuera de lugar,ofensivo
+Me llena de alegría compartir esto contigo,felicidad
+Quiero causarte una lesión,agresividad
+Estoy harto de que me hagan esperar,enojo
+Me irrita que se burlen de mi esfuerzo,enojo
+Ando de buenas porque todo va mejorando,felicidad
+Te voy a hacer pagar con golpes,agresividad
+Estoy feliz de haber tomado esa oportunidad,felicidad
+Te voy a agredir en cuanto te encuentre,agresividad
+Estoy fastidiado de tantas interrupciones,enojo
+Me pone triste que no me hayas escuchado,tristeza
+Te voy a dar una golpiza,agresividad
+Tu comentario fue una falta de respeto,ofensivo
+Me pesa mucho esta situación,tristeza
+Te voy a aventar contra la pared,agresividad
+Qué persona tan torpe,ofensivo
+Voy a golpearte en cuanto te vea,agresividad
+Estoy molesto por la falta de respeto,enojo
+Estoy feliz porque ya estoy viendo resultados,felicidad
+Te voy a golpear hasta dejarte en el suelo,agresividad
+Estoy agradecido por este día tan bonito,felicidad
+Eres un ignorante presumido,ofensivo
+Me duele sentir que ya no te importo,tristeza
+Eres un presumido y maleducado,ofensivo
+Me siento desanimado después de ese rechazo,tristeza
+Qué tontería de respuesta,ofensivo
+Me pone triste pensar en lo que pudo ser,tristeza
+Me pesa que ya no podamos compartir momentos,tristeza
+Me da mucha satisfacción haberlo terminado,felicidad
+Me siento muy bien conmigo mismo,felicidad
+Voy a golpearte para que tengas miedo,agresividad
+Me da muchísimo coraje esa injusticia,enojo
+Me enfurece que no respeten los turnos,enojo
+Estoy satisfecho con mi esfuerzo,felicidad
+Quiero romperte la nariz,agresividad
+Eres una persona muy desagradable,ofensivo
+No tengo mucho ánimo para hablar,tristeza
+Me enfada que no respeten lo que acordamos,enojo
+Tu trabajo está hecho con las patas,ofensivo
+Me duele que no podamos arreglarlo,tristeza
+Quiero golpearte ahora mismo,agresividad
+Me enfada que no haya comunicación,enojo
+Eres un ignorante,ofensivo
+Te voy a atacar con un objeto,agresividad
+Me molesta que se aprovechen de mi paciencia,enojo
+Voy a destruir tu auto para vengarme,agresividad
+Qué triste es despedirse de alguien querido,tristeza
+Me agüita que las cosas no salieran bien,tristeza
+No esperaba que esto me afectara tanto,tristeza
+Voy a lanzarte al suelo,agresividad
+Qué increíble que hayamos podido lograrlo,felicidad
+Te voy a golpear con todas mis fuerzas,agresividad
+"Qué bonito detalle, me alegraste el día",felicidad
+No sabes ni lo básico,ofensivo
+Voy a agredirte si te acercas,agresividad
+Ya me cansé de esta discusión,enojo
+Qué persona tan necia e insoportable,ofensivo
+Me hace falta tenerte cerca,tristeza
+Eres un idiota y un arrogante,ofensivo
+Me emociona muchísimo empezar este proyecto,felicidad
+Me cuesta trabajo sonreír estos días,tristeza
+Me siento feliz y tranquilo,felicidad
+Me duele recordar cómo terminaron las cosas,tristeza
+Me enoja que no sean claros conmigo,enojo
+Te voy a pegar cuando estés distraído,agresividad
+Eres un arrogante,ofensivo
+Me pesa mucho que ya no estés aquí,tristeza
