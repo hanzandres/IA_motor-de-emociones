@@ -1,0 +1,29 @@
+
+mensaje,emocion
+
+
+"Estoy muy feliz hoy",felicidad
+"Me encanta pasar tiempo contigo",felicidad
+"Hoy fue un día maravilloso",felicidad
+"Estoy muy emocionado por mi futuro",felicidad
+"Me siento muy alegre",felicidad
+"Estoy triste y quiero llorar",tristeza
+"Me siento completamente solo",tristeza
+"Hoy extraño mucho a mi familia",tristeza
+"Nadie comprende como me siento",tristeza
+"Estoy desanimado por lo sucedido",tristeza
+"Estoy muy enojado contigo",enojo
+"Esto me molesta demasiado",enojo
+"No soporto esta situación",enojo
+"Estoy harto de tus mentiras",enojo
+"Me haces perder la paciencia",enojo
+"Te voy a golpear",agresividad
+"Quiero hacerte daño",agresividad
+"Voy a destruir tus cosas",agresividad
+"Te voy a atacar",agresividad
+"Quiero lastimarte",agresividad
+"Eres un completo idiota",ofensivo
+"Que persona tan estúpida",ofensivo
+"No sirves para nada",ofensivo
+"Eres un inútil",ofensivo
+"Tu comentario fue muy ofensivo",ofensivo
